@@ -62,6 +62,12 @@
 .paragraph {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
 .marker {
   color:#FFFFFF;
 }
