@@ -7,3 +7,4 @@ https://trello.com/b/bfPIShkK/huuskafi-smart-home-roadmap
 Ich habs doch noch gecloned.
 bliblablub.
 I like DEV
+commit
