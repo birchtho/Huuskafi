@@ -1,6 +1,6 @@
 # Huuskafi
 ZHAW ARE 2019.1
-Smarthome
+Projekt Smarthome
 luzitho
 birchtho
 https://trello.com/b/bfPIShkK/huuskafi-smart-home-roadmap
