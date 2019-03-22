@@ -4,8 +4,10 @@ Projekt Smarthome
 luzitho
 birchtho
 https://trello.com/b/bfPIShkK/huuskafi-smart-home-roadmap
+Sam
 Ich habs doch noch gecloned.
 bliblablub.
 I like DEV
 commit
 GITHUB PRO
+
