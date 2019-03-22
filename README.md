@@ -3,11 +3,5 @@ ZHAW ARE 2019.1
 Projekt Smarthome
 luzitho
 birchtho
+wuethsam
 https://trello.com/b/bfPIShkK/huuskafi-smart-home-roadmap
-Sam
-Ich habs doch noch gecloned.
-bliblablub.
-I like DEV
-commit
-GITHUB PRO
-
