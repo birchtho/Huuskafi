@@ -208,7 +208,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:5px;
+  top:6px;
   width:68px;
   word-wrap:break-word;
 }
@@ -226,7 +226,7 @@
   top:0px;
   width:218px;
   height:25px;
-  font-family:'Arial Standard', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -264,7 +264,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:5px;
+  top:6px;
   width:68px;
   word-wrap:break-word;
 }
@@ -343,7 +343,7 @@
   top:0px;
   width:300px;
   height:38px;
-  font-family:'Arial Standard', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -378,7 +378,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:138px;
+  width:139px;
   white-space:nowrap;
 }
 #u46_div {
